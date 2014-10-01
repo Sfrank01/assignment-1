@@ -1,0 +1,12 @@
+<answers>
+  <!-- put your name in the "name" element -->
+  <name>Susan Frank </name>
+
+  <!-- for the 'test0' link, provide the 'host' header value -->
+  <test0 host="" />
+
+  <!-- for the 'test1' and 'test2' links, provide the 'XSL Version' and 'Vendor' values -->
+  <test1 xsl_version="" vendor="" />
+  <test2 xsl_version="" vendor="" />
+
+</answers>
